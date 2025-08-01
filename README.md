@@ -2,7 +2,7 @@
 ## Hey there, 👋 This is Israel Diaz!
 
 [![Gmail Badge](https://img.shields.io/badge/-97diazisrael@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:97diazisrael@gmail.com)](mailto:97diazisrael@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-israeldiaz408-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/israeldiaz408/)](https://www.linkedin.com/in/israeldiaz408/) [![Github Badge](https://img.shields.io/badge/-israd408-grey?style=flat&logo=github&logoColor=white&link=https://github.com/israd408/)](https://www.github.com/israd408/) <p align='left'>👋 About Me
+[![LinkedIn Badge](https://img.shields.io/badge/-Israel%20Diaz-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-diaz408) [![Github Badge](https://img.shields.io/badge/-israd408-grey?style=flat&logo=github&logoColor=white&link=https://github.com/israd408/)](https://www.github.com/israd408/) <p align='left'>👋 About Me
 Hi, I'm Israel Diaz — a driven and adaptable professional with a strong background in hospitality, sales management, and team leadership. Over the past several years, I’ve worked in the hotel industry, where I led high-performing teams, developed strategic sales initiatives, and used market data to drive revenue growth. My experience has taught me the value of customer insight, data-driven decision-making, and cross-functional collaboration.
 
 As I’ve grown in my career, I’ve expanded my skillset into the world of data analytics and tech. I enjoy using tools and platforms to turn complex data into clear, actionable insights that help teams make better decisions and deliver results.
