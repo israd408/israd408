@@ -1,7 +1,7 @@
 
 ## Hey there, 👋 This is Israel Diaz!
 [![Gmail Badge](https://img.shields.io/badge/-97diazisrael@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:97diazisrael@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/-Israel%20Diaz-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/israel-diaz408) 
+[![Linkedin Badge](https://img.shields.io/badge/-Israel%20Diaz-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/israel-diaz408) 
 [![GitHub Badge](https://img.shields.io/badge/-Israd408-grey?style=flat&logo=github&logoColor=white)](https://github.com/Israd408)
 
 <p align='left'>👋 About Me</p>
