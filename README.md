@@ -1,5 +1,5 @@
 
-## Hey 👋, This is Israel Diaz Suarez
+## Hey there, 👋 This is Israel Diaz!
 [![Gmail Badge](https://img.shields.io/badge/-97diazisrael@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:97diazisrael@gmail.com)](mailto:97diazisrael@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/israeldiaz408/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/israeldiaz408//)](https://www.linkedin.com/in/https://www.linkedin.com/in/israeldiaz408//) [![Github Badge](https://img.shields.io/badge/-Israd408-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Israd408/)](https://www.github.com/Israd408/) <p align='left'>👋 About Me
 Hi, I'm Israel Diaz — a driven and adaptable professional with a strong background in hospitality, sales management, and team leadership. Over the past several years, I’ve worked in the hotel industry, where I led high-performing teams, developed strategic sales initiatives, and used market data to drive revenue growth. My experience has taught me the value of customer insight, data-driven decision-making, and cross-functional collaboration.
